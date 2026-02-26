@@ -40,9 +40,13 @@ MSc Student & Research Assistant building LLM-based autonomous agents.
 - Pinecone
 
 **Experimentation & Research Tooling**
-- Weights & Biases
-- MLflow
 - Hydra
+- MLflow
+- Weights & Biases
+
+**Infrastructure & Deployment** 
+- AWS
+- Docker
 
 ---
 
@@ -52,3 +56,4 @@ MSc Student & Research Assistant building LLM-based autonomous agents.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=emrekuruu&hide_border=true" />
 </p>
+
