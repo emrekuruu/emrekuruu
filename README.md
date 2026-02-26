@@ -1,15 +1,54 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">MSc Student & Research Assistant | RAG Systems and AI Agents</h3>
+<h1 align="center">Hi 👋, I'm Emre Kuru</h1>
+<h3 align="center">AI Researcher | Retrieval-Augmented Generation & AI Agents</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrekuruu&label=Profile%20views&color=0e75b6&style=flat" alt="emrekuruu" /> </p>
-
-- 📫 How to reach me **emre.kuru@ozu.edu.tr**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+MSc Student & Research Assistant building LLM-based autonomous agents.
+</p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrekuruu&" alt="emrekuruu" /></p>
+<p align="center">
+  📫 <a href="mailto:emre.kuru@ozu.edu.tr"><strong>Email</strong></a>
+  &nbsp;•&nbsp;
+  🎓 <a href="https://scholar.google.com/citations?user=dWNN5sMAAAAJ&hl=en&oi=ao" target="_blank"><strong>Google Scholar</strong></a>
+</p>
+
+---
+
+## 🛠 Technical Stack
+
+**Languages**
+- Python
+- Java
+- C++
+
+**Deep Learning & LLMs**
+- PyTorch
+- Hugging Face Transformers
+
+**LLM & Agent Frameworks**
+- DSPy
+- Ollama
+- LangChain
+- LangGraph
+- LlamaIndex
+
+**Retrieval & Vector Databases**
+- Chroma
+- Qdrant
+- Weaviate
+- Pinecone
+
+**Experimentation & Research Tooling**
+- Weights & Biases
+- MLflow
+- Hydra
+
+---
+
+## 📊 GitHub Activity
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=emrekuruu&hide_border=true" />
+</p>
