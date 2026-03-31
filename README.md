@@ -29,6 +29,7 @@ MSc Student & Research Assistant building LLM-based autonomous agents.
 **LLM & Agent Frameworks**
 - DSPy
 - Ollama
+- OpenClaw
 - LangChain
 - LangGraph
 - LlamaIndex
