@@ -48,13 +48,3 @@ MSc Student & Research Assistant building LLM-based autonomous agents.
 **Infrastructure & Deployment** 
 - AWS
 - Docker
-
----
-
-## 📊 GitHub Activity
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=emrekuruu&hide_border=true" />
-</p>
-
