@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Kuru</h1>
-<h3 align="center">AI Researcher | Retrieval-Augmented Generation & AI Agents</h3>
-
-<p align="center">
-MSc Student & Research Assistant building LLM-based autonomous agents.
-</p>
-
+<h3 align="center">PhD Student @ Institut Polytechnique de Paris  | Self Evolving Agents</h3>
 
 
 <p align="center">
