@@ -32,6 +32,7 @@
 - LangChain
 - LangGraph
 - LlamaIndex
+- CrewAI
 
 **Retrieval & Vector Databases**
 - Chroma
@@ -47,6 +48,7 @@
 **Infrastructure & Deployment**
 - AWS
 - Docker
+- Kubernetes
 
 ---
 
